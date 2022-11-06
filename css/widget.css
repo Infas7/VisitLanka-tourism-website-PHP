@@ -1,0 +1,219 @@
+.widget{
+    float: left;
+    width: 100%;
+}
+/* Widget Default Title Css Start*/
+.widget_default_title{
+    float: left;
+    width: 100%;
+    font-size: 18px;
+    margin: 0 0 24px;
+    font-weight: bold;
+    position: relative;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.border-bottom{
+    float: left;
+    width: 100%;
+    padding: 0 0 30px 0;
+    border-bottom: 1px solid #eeeef6;
+}
+/* Widget Title Css Start*/
+.widget-title{
+    float: left;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 0 0 21px;
+    position: relative;
+    margin: 0px 0 20px;
+    text-transform: uppercase;
+}
+.widget-title:before{
+    left: 0;
+    bottom:0;
+    height: 3px;
+    width: 40px;
+    content: "";
+    position: absolute;
+}
+/*Flicker Widget Css Start*/
+.widget_flicker ul{
+    margin: 0 0 0 -10px;
+}
+.widget_flicker ul li{
+    float: left;
+    width: auto;
+    margin: 0 0px 10px 10px;
+}
+.widget_flicker ul li a{
+    float: left;
+    width: 100%;
+}
+.widget_flicker ul li a:hover img{
+    opacity: 0.5;
+}
+/*Contact Widget Css Start*/
+footer .widget_search .mg_input_1{
+    margin-bottom: 10px;
+}
+footer .widget_search .mg_input_1 textarea,
+footer .widget_search .mg_input_1 input[type="text"]{
+    resize: none;
+    border-radius: 3px;
+    border-color: transparent;
+    background: rgba(255, 255, 255, 0.04);
+}
+footer .widget_search .mg_input_1 textarea{
+    min-height: 110px;
+}
+footer .widget_search p input[type="button"]{
+    border:none;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 0;
+    padding:10px 20px;
+    font-weight: bold;
+    line-height: normal;
+    display: inline-block;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+footer .widget_search p input[type="button"]:hover{
+    color: #000;
+    box-shadow:70px 22px 0 10px #fff inset;
+}
+footer .widget_search p{
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: right;
+}
+/*Sidebar Widget Css Start*/
+.mg_sidebar .widget{
+    margin: 23px 0 0 0;
+}
+.mg_sidebar .widget:first-child{
+    margin: 0;
+}
+/*Search Widget Css Start*/
+.mg_sidebar .widget_search .mg_input_1 input[type="text"]{
+    border-color: #eeeef6;
+    background-color: transparent;
+}
+.mg_sidebar .widget_search .mg_input_1 .search_icon:before{
+    content: "\f002";
+}
+/*Contact Widget Css Start*/
+.widget_contant .widget_default_title{
+    margin: 0 0 17px;
+}
+.widget_contant .border-bottom{
+    padding: 0 0 26px;
+}
+.widget_contant p{
+    margin: 0;
+    width: 100%;
+    float: left;
+}
+/*Recent Post Widget Css Start*/
+.recent_post{
+    float: left;
+    width: 100%;
+    margin: 0 0 20px;
+    position: relative;
+}
+.recent_post:last-child{
+    margin: 0;
+}
+.recent_post figure{
+    width: 80px;
+    margin: 0 15px 0 0;
+}
+.recent_post h5{
+    float: left;
+    width: 100%;
+    margin: 0 0 3px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.recent_post span{
+    float: right;
+}
+.recent_post .overflow{
+    padding: 5px 0 0;
+}
+.recent_post p{
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+/*Rss Feed Widget Css Start*/
+.mg_rss_list{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+    list-style: none;
+}
+.widget_rss .widget_default_title{
+    margin: 0 0 9px;
+}
+.widget_rss .border-bottom{
+    padding: 0 0 15px;
+}
+.mg_rss_list li{
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    padding: 10px 0;
+    cursor: pointer;
+    position: relative;
+    font-weight: normal;
+    line-height: normal;
+    text-transform: capitalize;
+    border-bottom: 1px solid #eeeef6;
+}
+.mg_rss_list li:hover a,
+.mg_rss_list li:hover{
+    color: #fff !important;
+}
+.mg_rss_list li:last-child{
+    border:none;
+}
+.mg_rss_list li:hover{
+    padding-left: 5px;
+}
+.mg_rss_list li:before{
+    float: left;
+    content: "\f105";
+    color: currentColor;
+    margin: 1px 10px 0 0;
+    font-family: 'FontAwesome';
+}
+/*Tag Widget Css Start*/
+.tag_list{
+    float: none;
+    margin: 0 0px -5px -5px;
+}
+.tag{
+    float: none;
+    width: auto;
+    color: #fff;
+    font-size: 12px;
+    padding: 6px 10px;
+    line-height: normal;
+    margin: 0 0 5px 5px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.tag:hover{
+    color: #000;
+    box-shadow:70px 22px 0 10px #fff inset;
+}

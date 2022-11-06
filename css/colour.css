@@ -1,0 +1,184 @@
+.mg_navigation li:hover > a,
+.nav li:hover a,
+.blog_title a:hover,
+.mg_blog_meta a:hover,
+.blog-meta-list a:hover,
+.mg_hotel_nav2 li:hover a,
+.mg_blog_medium:hover h6 a,
+.mg_comment_dec:hover h6 a,
+.mg_pricing:hover .text h6 a,
+.mg_chooseus:hover .text h5 a,
+.iq-team:hover .team-heading a,
+.blog-meta-list li > a:hover span,
+.widget_archives ul li:hover > a,
+.widget_archives ul li:hover:before,
+.mg_sub_banner .breadcrumb li a:hover,
+.mg_sub_banner .breadcrumb li.active span,
+.mg_blog_listing:hover .text .blog_title a,
+.mg_hotel_destination:hover .mg_destination_hd h5 a,
+
+
+/*Hover Color End*/
+
+.recent_post span,
+.mg_rss_list li a,
+.mg_copyright p a,
+.mg_pricing > span,
+.copy_right2 a,
+.recent_post:hover h5 a,
+input[type="text"]:focus,
+.mg-accordion .accordion a,
+.mg_input_1 textarea:focus,
+.mg_blog_medium .mg_readmore,
+.our-room .text .blog_title a,
+input[type="text"]:focus + label,
+.mg_blog_meta a i {
+  color: tomato;
+}
+
+/**/
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current,
+.mg_navigation .children li:hover > a,
+.mg_btn1:hover,
+.view_btn:hover,
+.mg_login a:hover,
+.mg_social li a:hover,
+.login1 .nav-tabs li.active a,
+.mg_pagination .page-numbers:hover,
+.mg_pagination .page-numbers.current,
+/*Hover Color End*/
+
+.tag,
+.text-link,
+.widget-title:before,
+.why_chooseus:before,
+.fancy-overlay figure,
+.mg_rss_list li:hover,
+.dl-menuwrapper .dl-menu,
+.dl-menuwrapper button:hover, .dl-menuwrapper button.dl-active,
+.widget_flicker ul li a,
+.mg_input_submit .mg_btn1,
+.mg_comment_form .mg_btn1,
+.mg_contact_form .mg_btn1,
+.mg_hotel_nav2 li.active a,
+.mg_pricing .text .mg_btn1,
+.fancy-overlay:hover .thumb,
+.mg-contact-wrap .mg_services i,
+.mg_search_tab .mg_input_1 .mg_btn1,
+.kode-pagination .page-numbers:hover,
+.widget_search p input[type="button"],
+.kode-pagination .page-numbers.current,
+.mg_blog_full-slider .slick-dots li.slick-active button {
+  background-color: tomato;
+}
+
+footer .widget_search .mg_input_1 textarea:focus,
+footer .widget_search .mg_input_1 input[type="text"]:focus,
+.mg_btn1:hover,
+.mg_login a:hover,
+.mg_social li a:hover,
+.mg_input_1 input:focus,
+input[type="text"]:focus,
+.mg_comment_form .mg_btn1,
+.mg_input_submit .mg_btn1,
+.mg_contact_form .mg_btn1,
+.mg_input_1 textarea:focus,
+.mg_input_1 input .mg_btn1,
+.mg_search_tab .mg_selectric:focus,
+.mg_pagination .page-numbers:hover,
+.mg_search_tab .mg_input_1 .mg_btn1,
+.kode-pagination .page-numbers:hover,
+.mg_pagination .page-numbers.current,
+.kode-pagination .page-numbers.current,
+.mg_search_tab .mg_input_1 textarea:focus,
+.mg_search_tab .mg_input_1 input[type="text"]:focus,
+.mg_search_tab .mg_input_1 .rq-check-inout-single-wrapper:focus,
+/*Hover Color End*/
+
+.mg_hotel_nav2 li a:before {
+  border-color: tomato;
+}
+
+/**/
+label,
+.mg_btn1,
+textarea,
+.iq-team,
+.our-room,
+.view_btn,
+.nav li a,
+input,
+.tag,
+.mg_login a,
+.mg_table ul,
+.mg_services,
+.blog_title a,
+.mg_zoom_icon,
+.mg_login a i,
+.page-numbers,
+.mg_services i,
+.mg_rss_list li,
+.mg_blog_meta a,
+.mg_social li a,
+.mg_blog_medium,
+.mg_search_tab *,
+.mg_blog_listing,
+.mg_rss_list li a,
+.blog-meta-list a,
+.mg_hotel_nav2 li a,
+.mg_hotel_destination,
+.mg_pricing .text h6 a,
+.widget_archives ul li,
+.mg_rss_list li:before,
+.widget_archives ul li a,
+.blog-meta-list li a span,
+.mg_hotel_nav2 li a:before,
+.widget_flicker ul li a img,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+.dl-menuwrapper .dl-trigger,
+.dl-menuwrapper li a,
+.widget_archives ul li:before,
+.kode-pagination .page-numbers,
+.mg_sub_banner .breadcrumb li a,
+.mg_hotel_destination figure img,
+.mg_destination_bg .mg_theme_logo,
+.mg_blog_full-slider .slick-dots button,
+.mg_pricing,
+.mg_navigation li a {
+  transition: all 0.3s ease-in-out;
+}
+
+.green {
+  background-color: #96bc34;
+}
+.pink {
+  background-color: #fa4a7b;
+}
+.peach {
+  background-color: #d71fff;
+}
+.blue-icon {
+  background-color: #7f87e8;
+}
+.pink-icon {
+  background-color: #ff67be;
+}
+.orange-icon {
+  background-color: #f5c812;
+}
+.skyblue-icon {
+  background-color: #59ffe2;
+}
+.lightred-icon {
+  background-color: #ff5c5a;
+}
+.lightgreen-icon {
+  background-color: #2aff71;
+}
