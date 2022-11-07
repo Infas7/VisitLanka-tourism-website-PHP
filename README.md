@@ -1,4 +1,4 @@
-# Visit-Lanka_A-tourism-website-PHP-MySQL-
+## Visit-Lanka_A-tourism-website-PHP-MySQL-
 
 ”Visit Lanka” is a full stack web application where user can explore tourism destinations in Sri Lanka as well as book hotels in nearby locations. The website provides complete details about each places with explanation, related images and videos and user
 can refer other users feed backs about places and hotels.
