@@ -14,6 +14,6 @@ platform.
 
 
 An admin/staff can login to the system through provided separate login button and
-form. Only admin can add new staffs other than that all the staffs have the same privileges as admins. Admin/staff can control and update the system. They can add/view tourism location, add/view tourism places (in a particular location), add/view hotel, view feed backs, view all the transactions, view all the records in the database (dashboard) and offer coupons for the users.
+form. Only admin can add new staffs other than that all the staffs have the same privileges as admins. Admin/staff can control and update the system. They can add/view tourism location, add/view tourism places (in a particular location), add/view hotel, view feedbacks, view all the transactions, view all the records in the database (dashboard) and offer coupons for the users.
 
 Live site: http://visitlanka.great-site.net/index.php
