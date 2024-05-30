@@ -1,4 +1,7 @@
-## Visit-Lanka_A-tourism-website-PHP-MySQL-
+## VisitLanka: Tourism and Booking site
+
+![Screenshot 2024-05-30 161944](https://github.com/Infas7/VisitLanka-tourism-website-PHP/assets/76855463/1f4839f8-d4ff-4f93-bd43-22e7bd219d6d)
+
 
 ”Visit Lanka” is a full stack web application where user can explore tourism destinations in Sri Lanka as well as book hotels in nearby locations. The website provides complete details about each places with explanation, related images and videos and user
 can refer other users feed backs about places and hotels.
@@ -16,4 +19,6 @@ platform.
 An admin/staff can login to the system through provided separate login button and
 form. Only admin can add new staffs other than that all the staffs have the same privileges as admins. Admin/staff can control and update the system. They can add/view tourism location, add/view tourism places (in a particular location), add/view hotel, view feedbacks, view all the transactions, view all the records in the database (dashboard) and offer coupons for the users.
 
-Live site: http://visitlanka.great-site.net/index.php
+Live site: [http://visitlanka.great-site.net/index.php](https://www.visitlanka.great-site.net/)
+
+
